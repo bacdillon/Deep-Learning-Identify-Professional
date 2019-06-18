@@ -1,0 +1,10 @@
+chef
+doctor
+engineer
+farmer
+firefighter
+judge
+mechanic
+pilot
+police
+waiter
