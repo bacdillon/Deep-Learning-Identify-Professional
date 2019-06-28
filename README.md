@@ -3,6 +3,8 @@
 To recognize professionals by their mode of dressing as humans can observe. 
 This is part of mission to train machine learning systems to perceive, understand and act accordingly in any environment they are deployed. 
 
+![alt text](http://url/to/img.png)
+
 # Dataset Description
 Reason for Creation:
 This dataset was created to enable the training of AI systems that can identifiable professionals
