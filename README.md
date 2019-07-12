@@ -47,9 +47,9 @@ Feature extraction part with a convolutional neural network.
 Classification part with fully-connected and softmax layers.
 
 # Building Web APIs with Flask
-![alt text](https://github.com/bacdillon/IDENTIFY-PROFESSIONAL/blob/master/image1.JPG)
+![alt text](https://github.com/bacdillon/IDENTIFY-PROFESSIONAL/blob/master/Result01.JPG)
 
-![alt text](https://github.com/bacdillon/IDENTIFY-PROFESSIONAL/blob/master/image1.JPG)
+![alt text](https://github.com/bacdillon/IDENTIFY-PROFESSIONAL/blob/master/Result02.JPG)
 
 # An image classification model and deploy it to a mobile using Tensorflow
 ![alt text](https://github.com/bacdillon/IDENTIFY-PROFESSIONAL/blob/master/image1.JPG)
