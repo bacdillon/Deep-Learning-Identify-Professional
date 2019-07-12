@@ -3,7 +3,7 @@
 To recognize professionals by their mode of dressing as humans can observe. 
 This is part of mission to train machine learning systems to perceive, understand and act accordingly in any environment they are deployed. 
 
-![alt text](https://github.com/bacdillon/IDENTIFY-PROFESSIONAL/blob/master/01.JPG)
+![alt text](https://github.com/bacdillon/IDENTIFY-PROFESSIONAL/blob/master/image1.JPG)
 
 # Dataset Description
 Reason for Creation:
