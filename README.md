@@ -52,7 +52,7 @@ Classification part with fully-connected and softmax layers.
 ![alt text](https://github.com/bacdillon/IDENTIFY-PROFESSIONAL/blob/master/Result02.JPG)
 
 # An image classification model and deploy it to a mobile using Tensorflow
-![alt text](https://github.com/bacdillon/IDENTIFY-PROFESSIONAL/blob/master/Result001.JPG)
+![alt text](https://github.com/bacdillon/IDENTIFY-PROFESSIONAL/blob/master/Result001.PNG)
 
-![alt text](https://github.com/bacdillon/IDENTIFY-PROFESSIONAL/blob/master/Result002.JPG)
+![alt text](https://github.com/bacdillon/IDENTIFY-PROFESSIONAL/blob/master/Result002.PNG)
 
